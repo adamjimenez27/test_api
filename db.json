@@ -1,15 +1,44 @@
 {
-  "books": [
+  "users": [
     {
       "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "photo": "https://randomuser.me/api/portraits/thumb/men/1.jpg",
+      "name": "User 1",
+      "lastname": "Lastname 1",
+      "email": "user1@gmail.com",
+      "password": "123456789",
+      "date": "27/05/2023",
+      "status": "Activo"
+    },
+    {
+      "id": 2,
+      "photo": "https://randomuser.me/api/portraits/thumb/men/2.jpg",
+      "name": "User 2",
+      "lastname": "Lastname 2",
+      "email": "user@gmail.com",
+      "password": "123456789",
+      "date": "27/05/2023",
+      "status": "Inactivo"
+    },
+    {
+      "id": 3,
+      "photo": "https://randomuser.me/api/portraits/thumb/men/3.jpg",
+      "name": "User 3",
+      "lastname": "Lastname 3",
+      "email": "user3@gmail.com",
+      "password": "123456789",
+      "date": "27/05/2023",
+      "status": "Activo"
+    },
+    {
+      "id": 4,
+      "photo": "https://randomuser.me/api/portraits/thumb/men/4.jpg",
+      "name": "User 4",
+      "lastname": "Lastname 4",
+      "email": "user4@gmail.com",
+      "password": "123456789",
+      "date": "27/05/2023",
+      "status": "Activo"
     }
   ]
 }
